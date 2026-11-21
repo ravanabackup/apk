@@ -1,0 +1,6 @@
+{
+  "name": "WaveBridge",
+  "description": "Local network media session bridge, scrobbler, and remote playback controller with optional live audio streaming over HTTP & WebSocket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
