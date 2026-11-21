@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WaveBridge</string>
+    <string name="notification_listener_label">WaveBridge Media Session Bridge</string>
+    <string name="notification_channel_name">WaveBridge Server</string>
+    <string name="notification_channel_desc">Keeps the local media bridge and WebSocket server running</string>
+    <string name="nav_bridge">Bridge</string>
+    <string name="nav_scrobbles">Scrobbles</string>
+    <string name="nav_guide">Setup</string>
+</resources>
